@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BlowFishDemo</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="to_decrypt">to_decrypt</string>
+    <string name="to_encrypt">to_encrypt</string>
+    <string name="reuslt">reuslt:</string>
+</resources>
